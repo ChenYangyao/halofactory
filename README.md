@@ -22,7 +22,9 @@ developed and is subject to structural modifications and functional expansions.
 The documentation is currently empty, and the testing does not encompass the 
 entire source tree. We will continue to work towards completing these aspects.
 
-Dependencies: [pyhipp](https://github.com/ChenYangyao/pyhipp)>=0.0.2, scipy, numpy.
+Dependencies:
+- Python>=3.9.
+- [pyhipp](https://github.com/ChenYangyao/pyhipp)>=0.0.2, scipy, numpy.
 
 To install `halofactory` and automatically handle the dependencies, use `PyPI`:
 ```bash
