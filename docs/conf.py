@@ -9,7 +9,7 @@
 project = 'HaloFactory'
 copyright = '2023, Yangyao Chen, Kai Wang'
 author = 'Yangyao Chen, Kai Wang'
-release = '0.0.1'
+release = '0.0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
