@@ -2,9 +2,6 @@ import numpy as np
 from scipy.interpolate import PchipInterpolator
 from scipy.integrate import quad
 from scipy.special import erf
-import scipy
-import mystats
-import collections
 from pyhipp.astro.quantity.unit_system import UnitSystem
 from pyhipp.core import DataDict
 from pyhipp.core.abc import HasLog, HasDictRepr
